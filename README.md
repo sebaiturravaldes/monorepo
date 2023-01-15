@@ -27,6 +27,7 @@ Para ejecutar el proyecto en modo desarrollo, debes ejecutar el siguiente comand
 ```cli
 npm run dev
 ```
+Este comando ejecutara todos los scripts "dev", que se encuentren tanto bajo los proyectos de `apps` como los de `packages`, de momento solo el proyecto web-next posee ese script y ejecutará podrás ver el sitio web en la url: http://localhost:3000/
 
 ## Publicar el paquete
 
