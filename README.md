@@ -1,8 +1,6 @@
-# monorepo
+# monorepo Javascript + NextJS + UI
 
-monorepo Javascript + React + ui
-
-Este monorepo contiene dos ejemplos, uno con React y otro con Next, ambos proyectos en  Javascript, logrando utilizar correctamente el paquete `ui`.
+Este monorepo contiene un ejemplo usando Next con Javascript, logrando utilizar correctamente el paquete `ui` (`packages/ui`)
 
 Con la finalidad de realizar una prueba de concepto, logrando importar un componente ubicado en otro lugar hacia el proyecto principal.
 
@@ -31,4 +29,5 @@ npm run dev
 ```
 
 ## Publicar el paquete
-...
+
+por definir...
